@@ -1,12 +1,6 @@
 <!-- Banner -->
 <img width=100% title="ANONYMOUS NETWORK-PIRATR" alt="ANONYMOUS NETWORK-PIRATR" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-NETWORK-PIRATR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
-<!-- Welcome & Warning GIFs -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Welcome.gif" width="100%" />
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Warning.gif" width="100%" />
-</p>
-
 <!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Network-pirate;Welcome+to+my+GitHub+Profile" />
@@ -19,7 +13,7 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Network-pirate&data=followers,repositories,stars,commits&theme=viridescent" />
 </p>
 
-<!-- Extra Assets (Top Visuals) -->
+<!-- Hacker Visuals -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/code.gif" width="45%">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/Programme.gif" width="45%">
@@ -27,6 +21,11 @@
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="45%">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/javascript.gif" width="45%">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="45%">
+</p>
+
+<!-- Welcome GIF before About Me -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Welcome.gif" width="100%" />
 </p>
 
 ---
@@ -94,6 +93,11 @@ func main() {
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /><br><br>
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,terraform" /><br><br>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman" />
+</p>
+
+<!-- Warning GIF before Trophies -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Warning.gif" width="100%" />
 </p>
 
 ---
