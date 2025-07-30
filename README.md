@@ -1,4 +1,4 @@
-<img width="100%" title="ANONYMOUS NETWORK-PIRATR" alt="ANONYMOUS NETWORK-PIRATR" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NETWORK-PIRATR%201N&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="ANONYMOUS NETWORK-PIRATR" alt="ANONYMOUS NETWORK-PIRATR" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-NETWORK-PIRATR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Network-pirate;Welcome+to+my+GitHub+Profile" />
