@@ -56,7 +56,20 @@ func main() {
 
 ### ⚙️ My Favorite Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,html,css,javascript,bootstrap,tailwind,github" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,c,cpp,bash,dart,php" />
+  <br><br>
+  <!-- Frontend/Backend Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,jquery,bootstrap,tailwind" />
+  <br><br>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,redis" />
+  <br><br>
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,nginx,docker,postman,vscode,androidstudio" />
+  <br><br>
+  <!-- Platforms & Hosting -->
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,gcp,heroku,figma" />
 </p>
 
 ---
