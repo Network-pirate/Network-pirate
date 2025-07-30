@@ -59,7 +59,7 @@ func main() {
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Network-pirate&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Network-pirate&theme=onedark&margin-w=15&row=2&column=3" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ func main() {
 
 ### 🔁 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Network-pirate&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Network-pirate&theme=dark&hide_border=false" />
 </p>
 
 ---
