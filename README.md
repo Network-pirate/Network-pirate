@@ -45,7 +45,7 @@ echo "🎯 Focused on automation, anonymity, and recon."
 |----------|-------------|
 | [`Codex IP Changer`](https://github.com/Network-pirate/codex-ip-changer) | 🔁 Tor-based IP rotation (random & country) — Kali & Termux support |
 | [`CC-KILLER`](https://github.com/Network-pirate/CC-KILLER.git) | 💳 Fake & real API card validation system (red team tool) |
-‎| [``](https://github.com/Network-pirate/Kali-Linux-virtual-box-.git ) | Kali Linux VirtualBox Auto-Setup Tool overcome the all limited of Kali Linux VirtualBox |
+‎| [`Kali Linux VirtualBox-LIMITATION`](https://github.com/Network-pirate/Kali-Linux-virtual-box-.git ) | Kali Linux VirtualBox Auto-Setup Tool overcome the all limited of Kali Linux VirtualBox |
 
 ---
 
