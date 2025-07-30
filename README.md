@@ -139,7 +139,6 @@ func main() {
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/Programme.gif" width="48%">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/keybord.gif" width="48%">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="48%">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="90%">
 </p>
 
 ---
