@@ -1,13 +1,32 @@
+<!-- Banner -->
 <img width=100% title="ANONYMOUS NETWORK-PIRATR" alt="ANONYMOUS NETWORK-PIRATR" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-NETWORK-PIRATR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
+<!-- Welcome & Warning GIFs -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Network-pirate;Welcome+to+my+GitHub+Profile" />
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Welcome.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Warning.gif" width="100%" />
 </p>
 
+<!-- Typing Effect -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Network-pirate&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Network-pirate;Welcome+to+my+GitHub+Profile" />
+</p>
+
+<!-- Visitor Counter + Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Network-pirate&label=Profile%20Visitor&color=071A2C&style=for-the-badge" />
   <br>
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Network-pirate&data=followers,repositories,stars,commits&theme=viridescent" />
+</p>
+
+<!-- Extra Assets (Top Visuals) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/code.gif" width="45%">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/Programme.gif" width="45%">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/keybord.gif" width="45%">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="45%">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/javascript.gif" width="45%">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="45%">
 </p>
 
 ---
@@ -51,16 +70,11 @@ func main() {
   <a href="https://x.com/FfTawhed"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-
 ---
 
 ### ⚙️ My Favorite Tools & Technologies
 <p align="center">
-  <!-- 🐍 Scripting & Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,bash,go,java,c,cpp,perl,ruby,powershell" />
-  <br><br>
-
-  <!-- 💣 Penetration Testing Tools -->
+  <img src="https://skillicons.dev/icons?i=python,bash,go,java,c,cpp,perl,ruby,powershell" /><br><br>
   <img src="https://img.shields.io/badge/Metasploit-20232A?style=for-the-badge&logoColor=white&color=red" />
   <img src="https://img.shields.io/badge/Burp%20Suite-ff7043?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logoColor=white" />
@@ -69,28 +83,16 @@ func main() {
   <img src="https://img.shields.io/badge/Hydra-8A2BE2?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Netcat-009688?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proxychains-1d1d1d?style=for-the-badge&logoColor=white" />
-  <br><br>
-
-  <!-- 🔍 Recon & Exploitation Tools -->
+  <img src="https://img.shields.io/badge/Proxychains-1d1d1d?style=for-the-badge&logoColor=white" /><br><br>
   <img src="https://img.shields.io/badge/Dirbuster-222222?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Nikto-880808?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/John%20The%20Ripper-5c5c5c?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Hashcat-ffcc00?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ettercap-333333?style=for-the-badge&logoColor=white" />
-  <br><br>
-
-  <!-- 🖥️ Operating Systems & Platforms -->
+  <img src="https://img.shields.io/badge/Ettercap-333333?style=for-the-badge&logoColor=white" /><br><br>
   <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Parrot%20OS-17A2B8?style=for-the-badge&logo=parrot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <br><br>
-
-  <!-- 🛠️ DevOps & Cloud Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,terraform" />
-  <br><br>
-
-  <!-- 🔧 Collaboration & Version Control -->
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,terraform" /><br><br>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman" />
 </p>
 
@@ -121,6 +123,13 @@ func main() {
 ### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Network-pirate&theme=react-dark&bg_color=1a1b27&hide_border=true"/>
+</p>
+
+---
+
+<!-- Footer Visual -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/Footer.jpg" width="100%" />
 </p>
 
 ---
