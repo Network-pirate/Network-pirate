@@ -1,38 +1,16 @@
-<h1 align="center">🛡️ Network Pirate</h1>
-<p align="center">💻 Cybersecurity Enthusiast | 🧠 Bash Scripter | 🌐 IP Tools Specialist</p>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=16F700&center=true&vCenter=true&lines=🛡️+Network+Pirate;⚔️+Cybersecurity+Student;🧠+Linux+%7C+Bash+%7C+Anonymity+Tools" alt="Typing SVG" /></h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux%20User-black?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Termux-Hacker%20Tools-red?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-PenTest-blue?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
 
 ---
 
-### 🧰 Projects
-| Tool | Description |
-|------|-------------|
-| [`Codex IP Changer`](https://github.com/Network-pirate/Codex-IP-Changer) | Tor-based dynamic IP changer for Termux and Linux |
-| [`CC-Killer`](https://github.com/Network-pirate/CC-Killer) | Card validation & testing automation tool |
-| [`ScannerX`](https://github.com/Network-pirate/ScannerX) | Advanced recon scanner for bug bounty |
+## 👤 About Me
 
----
-
-### 📜 About Me
-
-- 💻 I build ethical cybersecurity tools using Bash & Python
-- 🌍 I love working with anonymization (Tor, VPN, Proxy)
-- 🧠 Focused on privacy tools, red teaming, and recon
-- 📱 Main platform: Android/Termux + Kali Linux
-
----
-
-### 🔗 Connect with Me
-
-- 📡 Telegram: `@yourusername` *(replace this with your real tag)*
-- 💬 GitHub Discussions: [Network-pirate](https://github.com/Network-pirate)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Network-pirate&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Network-pirate&layout=compact)
-
----
-
-> ⚠️ All tools are for **educational and ethical use only**.
+```bash
+echo "I am a cybersecurity student, still learning every day."
+echo "I build ethical tools during my free time."
+echo "All my work is for educational purposes only."
