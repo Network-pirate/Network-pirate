@@ -54,22 +54,44 @@ func main() {
 
 ---
 
-### ⚙️ My Favorite Tools & Technologies
+### ⚙️ My Favorite Tools & Technologies (Hacker Edition)
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,c,cpp,bash,dart,php" />
+  <!-- 🐍 Scripting & Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,bash,go,java,c,cpp,perl,ruby,powershell" />
   <br><br>
-  <!-- Frontend/Backend Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,jquery,bootstrap,tailwind" />
+
+  <!-- 💣 Penetration Testing Tools -->
+  <img src="https://img.shields.io/badge/Metasploit-20232A?style=for-the-badge&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff7043?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-306998?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aircrack-ng-292929?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netcat-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxychains-1d1d1d?style=for-the-badge&logoColor=white" />
   <br><br>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,redis" />
+
+  <!-- 🔍 Recon & Exploitation Tools -->
+  <img src="https://img.shields.io/badge/Dirbuster-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nikto-880808?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-5c5c5c?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-ffcc00?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ettercap-333333?style=for-the-badge&logoColor=white" />
   <br><br>
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,nginx,docker,postman,vscode,androidstudio" />
+
+  <!-- 🖥️ Operating Systems & Platforms -->
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-17A2B8?style=for-the-badge&logo=parrot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <br><br>
-  <!-- Platforms & Hosting -->
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,gcp,heroku,figma" />
+
+  <!-- 🛠️ DevOps & Cloud Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,terraform" />
+  <br><br>
+
+  <!-- 🔧 Collaboration & Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman" />
 </p>
 
 ---
