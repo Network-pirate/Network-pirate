@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Network-pirate;Welcome+to+my+GitHub+Profile" />
 </p>
 
-<!-- Visitor Counter + Profile Stats -->
+<!-- Visitor + Stats Widget -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Network-pirate&label=Profile%20Visitor&color=071A2C&style=for-the-badge" />
   <br>
@@ -20,12 +20,6 @@
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/keybord.gif" width="45%">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="45%">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/javascript.gif" width="45%">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="45%">
-</p>
-
-<!-- Welcome GIF before About Me -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Welcome.gif" width="100%" />
 </p>
 
 ---
@@ -56,6 +50,13 @@ func main() {
   fmt.Println(me)
 }
 ```
+
+---
+
+<!-- Welcome GIF - Transition -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Welcome.gif" width="100%" />
+</p>
 
 ---
 
@@ -95,7 +96,7 @@ func main() {
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman" />
 </p>
 
-<!-- Warning GIF before Trophies -->
+<!-- WARNING GIF - PRE-STATS TRANSITION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Warning.gif" width="100%" />
 </p>
@@ -129,11 +130,9 @@ func main() {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Network-pirate&theme=react-dark&bg_color=1a1b27&hide_border=true"/>
 </p>
 
----
-
-<!-- Footer Visual -->
+<!-- Ultra Ego ENDING -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/Footer.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="80%" />
 </p>
 
 ---
