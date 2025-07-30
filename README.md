@@ -54,7 +54,7 @@ func main() {
 
 ---
 
-### ⚙️ My Favorite Tools & Technologies (Hacker Edition)
+### ⚙️ My Favorite Tools & Technologies
 <p align="center">
   <!-- 🐍 Scripting & Programming Languages -->
   <img src="https://skillicons.dev/icons?i=python,bash,go,java,c,cpp,perl,ruby,powershell" />
