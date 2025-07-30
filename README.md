@@ -1,15 +1,11 @@
+<!-- BANNER -->
+<img width=100% title="ANONYMOUS NETWORK-PIRATR" alt="ANONYMOUS NETWORK-PIRATR" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-NETWORK-PIRATR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+
 <!-- 🌌 ULTRA-EGO GIF at the very top -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="100%" />
 </p>
 
-<!-- ⚠️ WARNING GIF below ultra ego -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Warning.gif" width="100%" />
-</p>
-
-<!-- BANNER -->
-<img width=100% title="ANONYMOUS NETWORK-PIRATR" alt="ANONYMOUS NETWORK-PIRATR" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-NETWORK-PIRATR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <!-- TYPING -->
 <p align="center">
@@ -110,6 +106,10 @@ func main() {
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Network-pirate&theme=onedark&margin-w=15&row=2&column=3" />
+
+<!-- ⚠️ WARNING GIF below ultra ego -->
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Warning.gif" width="100%" />
+  
 </p>
 
 ---
@@ -125,6 +125,7 @@ func main() {
 ### 🔁 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Network-pirate&theme=dark&hide_border=false" />
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="48%">
 </p>
 
 ---
@@ -138,7 +139,6 @@ func main() {
 <p align="center">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/Programme.gif" width="48%">
   <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/keybord.gif" width="48%">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="48%">
 </p>
 
 ---
