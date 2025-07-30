@@ -1,25 +1,26 @@
-<!-- Banner -->
+<!-- 🌌 ULTRA-EGO GIF at the very top -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="100%" />
+</p>
+
+<!-- ⚠️ WARNING GIF below ultra ego -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Warning.gif" width="100%" />
+</p>
+
+<!-- BANNER -->
 <img width=100% title="ANONYMOUS NETWORK-PIRATR" alt="ANONYMOUS NETWORK-PIRATR" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-NETWORK-PIRATR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
-<!-- Typing Effect -->
+<!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Network-pirate;Welcome+to+my+GitHub+Profile" />
 </p>
 
-<!-- Visitor + Stats Widget -->
+<!-- VISITOR + STATS WIDGET -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Network-pirate&label=Profile%20Visitor&color=071A2C&style=for-the-badge" />
   <br>
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Network-pirate&data=followers,repositories,stars,commits&theme=viridescent" />
-</p>
-
-<!-- Hacker Visuals -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/code.gif" width="45%">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/Programme.gif" width="45%">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/keybord.gif" width="45%">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="45%">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/javascript.gif" width="45%">
 </p>
 
 ---
@@ -51,11 +52,9 @@ func main() {
 }
 ```
 
----
-
-<!-- Welcome GIF - Transition -->
+<!-- 🔵 code.gif after About Me -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Welcome.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/code.gif" width="100%" />
 </p>
 
 ---
@@ -68,6 +67,11 @@ func main() {
   <a href="https://www.facebook.com/share/1CCPqdqL6J/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/tawhedff018?igsh=MTY0ZmVqeHk3aHNmeg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://x.com/FfTawhed"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<!-- 🟣 welcome.gif after contact section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Welcome.gif" width="100%" />
 </p>
 
 ---
@@ -96,9 +100,9 @@ func main() {
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman" />
 </p>
 
-<!-- WARNING GIF - PRE-STATS TRANSITION -->
+<!-- 🟠 javascript.gif after tools section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/Warning.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/javascript.gif" width="100%" />
 </p>
 
 ---
@@ -130,9 +134,12 @@ func main() {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Network-pirate&theme=react-dark&bg_color=1a1b27&hide_border=true"/>
 </p>
 
-<!-- Ultra Ego ENDING -->
+<!-- 🔴 All other banners at the end -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/Programme.gif" width="48%">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/keybord.gif" width="48%">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="48%">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="90%">
 </p>
 
 ---
