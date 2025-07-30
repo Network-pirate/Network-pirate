@@ -44,7 +44,7 @@ echo "🎯 Focused on automation, anonymity, and recon."
 | Tool Name | Description |
 |----------|-------------|
 | [`Codex IP Changer`](https://github.com/Network-pirate/codex-ip-changer) | 🔁 Tor-based IP rotation (random & country) — Kali & Termux support |
-| [`CC-KILLER`](https://github.com/Network-pirate/CC-Killer) | 💳 Fake & real API card validation system (red team tool) |
+| [`CC-KILLER`](https://github.com/Network-pirate/CC-KILLER.git) | 💳 Fake & real API card validation system (red team tool) |
 
 ---
 
