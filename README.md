@@ -3,7 +3,7 @@
 
 <!-- 🌌 ULTRA-EGO GIF at the very top -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="50%" />
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="90%" />
   
 </p>
 
