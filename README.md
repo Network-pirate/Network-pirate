@@ -3,7 +3,7 @@
 
 <!-- 🌌 ULTRA-EGO GIF at the very top -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/ultra-ego.gif" width="32%" />
   
 </p>
 
@@ -127,7 +127,7 @@ func main() {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Network-pirate&theme=dark&hide_border=false" />
   
-  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="48%">
+  <img src="https://raw.githubusercontent.com/Network-pirate/Network-pirate/main/assets/images/hacker.gif" width="64%%">
 </p>
 
 ---
