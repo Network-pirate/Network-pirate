@@ -10,7 +10,7 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Network-pirate-MD TAWHED;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Network-pirate;Welcome+to+my+GitHub+Profile" />
 </p>
 
 <!-- VISITOR + STATS WIDGET -->
