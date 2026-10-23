@@ -16,8 +16,6 @@
 <!-- VISITOR + STATS WIDGET -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Network-pirate&label=Profile%20Visitor&color=071A2C&style=for-the-badge" />
-  <br>
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Network-pirate&data=followers,repositories,stars,commits&theme=viridescent" />
 </p>
 
 ---
